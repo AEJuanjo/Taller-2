@@ -12,5 +12,10 @@ public class Variables {
         int temperaturaMax = 45;
         float precioProducto = 19999.99f;
         double pi = 3.1415926535;
+        float saldoCuenta = 150000.50f;
+        double promedioNotas = 4.3;
+        char inicialNombre = 'J';
+        char simboloMoneda = '$';
+        boolean esMayorEdad = true;
     }
 }
