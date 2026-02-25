@@ -16,3 +16,8 @@ Se desarrolló un ejercicio práctico donde se crean 20 variables con distintos 
 - Diferenciar entre declaración e inicialización.
 - Aplicar la reasignación de valores.
 - Trabajar con diferentes tipos de datos.
+
+## Conceptos Fundamentales
+
+### Variable
+Una variable es un espacio en memoria que almacena un valor que puede cambiar durante la ejecución de un programa.
