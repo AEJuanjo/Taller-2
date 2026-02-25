@@ -17,5 +17,12 @@ public class Variables {
         char inicialNombre = 'J';
         char simboloMoneda = '$';
         boolean esMayorEdad = true;
+        boolean tienePlata = false;
+        String nombreCompleto = "Juan Andres";
+        String materia = "Lógica de programación";
+        String emailUsuario = "juanandres190507@gmail.com";
+        String universidad = "UPB";
+        double nota = 4.5;
+        
     }
 }
