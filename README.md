@@ -27,3 +27,24 @@ Es el proceso de asignar un valor inicial a una variable en el momento de su cre
 
 ### Reasignación
 Es la modificación del valor de una variable después de haber sido inicializada.
+
+---
+
+---
+
+
+## 🧩 Declaración de 20 Variables
+
+Se declararon 20 variables utilizando distintos tipos de datos en Java, incluyendo:
+
+- int
+- double
+- float
+- long
+- short
+- byte
+- boolean
+- char
+- String
+
+---
