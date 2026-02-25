@@ -52,3 +52,13 @@ Se declararon 20 variables utilizando distintos tipos de datos en Java, incluyen
 ## ⚙️ Inicialización de las Variables
 
 Cada una de las 20 variables fue inicializada con valores compatibles según su tipo de dato, asegurando que no se generaran errores de tipo.
+
+---
+
+## 🧠 Compatibilidad de Tipos
+
+Se verificó que cada valor asignado correspondiera correctamente al tipo de dato declarado.
+
+Esto evita errores de compilación y ejecución.
+
+---
