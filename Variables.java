@@ -29,5 +29,8 @@ public class Variables {
         nota = promedioNotas;
         nombreCompleto = emailUsuario;
         temperaturaMax = temperaturaMinima;
+        pi = promedioNotas;
+
+        //Hard coded//
     }
 }
