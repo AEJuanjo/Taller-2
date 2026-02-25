@@ -82,3 +82,11 @@ Durante el desarrollo se identificaron posibles errores de sintaxis como:
 
 
 ---
+
+
+## 🗂 Importancia de los Commits
+
+Se realizaron múltiples commits para llevar un control organizado del progreso del proyecto.
+
+
+---
