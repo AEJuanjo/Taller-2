@@ -62,3 +62,12 @@ Se verificó que cada valor asignado correspondiera correctamente al tipo de dat
 Esto evita errores de compilación y ejecución.
 
 ---
+
+## 🧾 Valores Hardcoded
+
+Algunas variables fueron reasignadas utilizando valores escritos directamente en el código (hardcoded), como por ejemplo:
+
+int x = 6;
+
+
+---
