@@ -32,5 +32,10 @@ public class Variables {
         pi = promedioNotas;
 
         //Hard coded//
+        edad = 18;
+        estatura = 1.80;
+        peso = 62f;
+        codigoPostal = 050016;
+        poblacionCiudad = 4500000;
     }
 }
