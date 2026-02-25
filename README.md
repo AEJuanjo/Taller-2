@@ -21,3 +21,9 @@ Se desarrolló un ejercicio práctico donde se crean 20 variables con distintos 
 
 ### Variable
 Una variable es un espacio en memoria que almacena un valor que puede cambiar durante la ejecución de un programa.
+
+### Inicialización
+Es el proceso de asignar un valor inicial a una variable en el momento de su creación.
+
+### Reasignación
+Es la modificación del valor de una variable después de haber sido inicializada.
