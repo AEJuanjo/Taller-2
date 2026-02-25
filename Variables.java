@@ -7,5 +7,10 @@ public class Variables {
         float peso = 65f;
         short codigoPostal = 050001;
         int poblacionCiudad = 1500000;
+        long areaColombia = 1141748L;
+        byte temperaturaMinima = -12;
+        int temperaturaMax = 45;
+        float precioProducto = 19999.99f;
+        double pi = 3.1415926535;
     }
 }
