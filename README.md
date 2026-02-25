@@ -71,3 +71,14 @@ int x = 6;
 
 
 ---
+
+## ❌ Errores de Sintaxis
+
+Durante el desarrollo se identificaron posibles errores de sintaxis como:
+
+- Falta de punto y coma (;)
+- Uso incorrecto de comillas
+- Tipos incompatibles
+
+
+---
