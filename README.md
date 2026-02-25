@@ -48,3 +48,7 @@ Se declararon 20 variables utilizando distintos tipos de datos en Java, incluyen
 - String
 
 ---
+
+## ⚙️ Inicialización de las Variables
+
+Cada una de las 20 variables fue inicializada con valores compatibles según su tipo de dato, asegurando que no se generaran errores de tipo.
