@@ -21,3 +21,83 @@ Se desarrolló un ejercicio práctico donde se crean 20 variables con distintos 
 
 ### Variable
 Una variable es un espacio en memoria que almacena un valor que puede cambiar durante la ejecución de un programa.
+
+### Inicialización
+Es el proceso de asignar un valor inicial a una variable en el momento de su creación.
+
+### Reasignación
+Es la modificación del valor de una variable después de haber sido inicializada.
+
+---
+
+---
+
+
+## 🧩 Declaración de 20 Variables
+
+Se declararon 20 variables utilizando distintos tipos de datos en Java, incluyendo:
+
+- int
+- double
+- float
+- long
+- short
+- byte
+- boolean
+- char
+- String
+
+---
+
+## ⚙️ Inicialización de las Variables
+
+Cada una de las 20 variables fue inicializada con valores compatibles según su tipo de dato, asegurando que no se generaran errores de tipo.
+
+---
+
+## 🧠 Compatibilidad de Tipos
+
+Se verificó que cada valor asignado correspondiera correctamente al tipo de dato declarado.
+
+Esto evita errores de compilación y ejecución.
+
+---
+
+## 🧾 Valores Hardcoded
+
+Algunas variables fueron reasignadas utilizando valores escritos directamente en el código (hardcoded), como por ejemplo:
+
+int x = 6;
+
+
+---
+
+## ❌ Errores de Sintaxis
+
+Durante el desarrollo se identificaron posibles errores de sintaxis como:
+
+- Falta de punto y coma (;)
+- Uso incorrecto de comillas
+- Tipos incompatibles
+
+
+---
+
+
+## 🗂 Importancia de los Commits
+
+Se realizaron múltiples commits para llevar un control organizado del progreso del proyecto.
+
+
+---
+
+## 👥 Trabajo en Equipo
+
+El proyecto fue desarrollado de manera colaborativa, dividiendo responsabilidades y verificando el trabajo realizado por cada integrante.
+
+
+---
+
+## 📌 Requisito de Commits
+
+Cada integrante debe realizar como mínimo 7-10 commits en el repositorio para evidenciar participación activa.
