@@ -90,3 +90,10 @@ Se realizaron múltiples commits para llevar un control organizado del progreso 
 
 
 ---
+
+## 👥 Trabajo en Equipo
+
+El proyecto fue desarrollado de manera colaborativa, dividiendo responsabilidades y verificando el trabajo realizado por cada integrante.
+
+
+---
