@@ -97,3 +97,7 @@ El proyecto fue desarrollado de manera colaborativa, dividiendo responsabilidade
 
 
 ---
+
+## 📌 Requisito de Commits
+
+Cada integrante debe realizar como mínimo 7-10 commits en el repositorio para evidenciar participación activa.
