@@ -23,6 +23,8 @@ public class Variables {
         String emailUsuario = "juanandres190507@gmail.com";
         String universidad = "UPB";
         double nota = 4.5;
+
+        //Reasignación//
         
     }
 }
