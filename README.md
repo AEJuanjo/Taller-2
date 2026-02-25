@@ -1,2 +1,5 @@
-# Taller-2
-Repositorio para el taller 2 de lógica de programación
+# Taller de Lógica de Programación
+# 🫂 Integrantes 
+- Juan Andres Vallejo 
+- Juan José Alzate
+- Luis Leonardo Rodriguez
