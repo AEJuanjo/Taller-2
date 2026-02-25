@@ -9,3 +9,10 @@
 Este proyecto tiene como objetivo comprender los conceptos fundamentales de las variables en programación, incluyendo su declaración, inicialización y reasignación.
 
 Se desarrolló un ejercicio práctico donde se crean 20 variables con distintos tipos de datos y posteriormente se modifican algunos valores.
+
+## 👽 Objetivos
+
+- Entender qué es una variable.
+- Diferenciar entre declaración e inicialización.
+- Aplicar la reasignación de valores.
+- Trabajar con diferentes tipos de datos.
