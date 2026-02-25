@@ -25,6 +25,9 @@ public class Variables {
         double nota = 4.5;
 
         //Reasignación//
-        
+        inicialNombre = simboloMoneda;
+        nota = promedioNotas;
+        nombreCompleto = emailUsuario;
+        temperaturaMax = temperaturaMinima;
     }
 }
