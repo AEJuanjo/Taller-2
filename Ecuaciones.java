@@ -25,10 +25,12 @@ public class Ecuaciones {
 
         } else {
             JOptionPane.showMessageDialog(null, "Opción inválida");
-            JOptionPane.showMessageDialog(null, "Para x = " + x +" y z = " + z + "\n El valor de y es: " + y);
+            
         }
+        JOptionPane.showMessageDialog(null, "Para x = " + x +" y z = " + z + "\n El valor de y es: " + y);
     }
 }
+
 
 
 
