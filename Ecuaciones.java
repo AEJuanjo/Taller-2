@@ -23,9 +23,12 @@ public class Ecuaciones {
 
             y = ((x*x+3*z+2)/(2+(1/(1+2*z)))) + (2/(1+3*x*x*x+3*z+2)) / (1/(1/(1+3*x)+(3*x+1)/(2*z+(3/(1+5/z)))));
 
+        } else {
+            JOptionPane.showMessageDialog(null, "Opción inválida");
         }
     }
 }
+
 
 
 
