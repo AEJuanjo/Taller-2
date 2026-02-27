@@ -14,7 +14,9 @@ public class Ecuaciones {
                 JOptionPane.showInputDialog("Ingrese el valor de x:"));
             double z = Double.parseDouble(
                 JOptionPane.showInputDialog("Ingrese el valor de z:"));
+            double y = 0;
     }
 }
+
 
 
